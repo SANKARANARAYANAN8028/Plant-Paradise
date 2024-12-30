@@ -1,0 +1,49 @@
+:root {
+  /* Main colors */
+  --primary-color: #2ecc71;
+  --primary-dark: #27ae60;
+  --primary-light: #a8e6cf;
+  --secondary-color: #3498db;
+  --secondary-dark: #2980b9;
+  
+  /* Background colors */
+  --background-color: #f0f4f8;
+  --card-background: #ffffff;
+  --gradient-bg: linear-gradient(135deg, #a8e6cf 0%, #2ecc71 100%);
+  
+  /* Text colors */
+  --text-color: #2d3436;
+  --text-light: #636e72;
+  --text-white: #ffffff;
+  
+  /* Accent colors */
+  --accent-yellow: #ffd93d;
+  --accent-red: #ff6b6b;
+  --accent-purple: #6c5ce7;
+  
+  /* UI colors */
+  --success-color: #00b894;
+  --error-color: #ff7675;
+  --warning-color: #fdcb6e;
+  --info-color: #0984e3;
+  
+  /* Neutral colors */
+  --white: #ffffff;
+  --gray-100: #f8fafc;
+  --gray-200: #edf2f7;
+  --gray-300: #e2e8f0;
+  --gray-400: #cbd5e0;
+  --gray-500: #a0aec0;
+  --gray-600: #718096;
+  
+  /* Animation durations */
+  --transition-fast: 150ms;
+  --transition-normal: 250ms;
+  --transition-slow: 350ms;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
