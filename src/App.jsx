@@ -6,6 +6,7 @@ import ProductListing from './components/ProductListing/ProductListing';
 import ShoppingCart from './components/ShoppingCart/ShoppingCart';
 import './App.modules.css';
 
+
 const App = () => {
   const [cartItems, setCartItems] = useState(() => {
     const savedCart = localStorage.getItem('cart');
